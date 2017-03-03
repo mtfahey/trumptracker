@@ -32,7 +32,7 @@ statuses:
 
 promises:
     -
-        title: 'No more trips Maralago'
+        title: 'No more trips to Maralago'
         status: Broken
         category: Culture
         tags:
